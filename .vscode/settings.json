@@ -19,6 +19,8 @@
         "iosfwd": "cpp",
         "new": "cpp",
         "ostream": "cpp",
-        "streambuf": "cpp"
-    }
+        "streambuf": "cpp",
+        "string": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
